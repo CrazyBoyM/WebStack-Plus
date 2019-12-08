@@ -27,7 +27,7 @@ https://github.com/CrazyBoyM/WebStack-Laravel
 
 2.加入了图标按需加载(懒加载 lazyload)
 
-3.随便弄了个简单的天气(天气网的iframe)
+3.随便弄了个简单的天气(天气网)
 
 4.右下角聊天室(Gitter WebStack room)
 
