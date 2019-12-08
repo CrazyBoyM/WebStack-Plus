@@ -70,7 +70,7 @@ Demo:
 用Gitter的,可以自行更换其他方案
 
 页尾插入
-```javascript
+```html
 <script>
   ((window.gitter = {}).chat = {}).options = {
    
