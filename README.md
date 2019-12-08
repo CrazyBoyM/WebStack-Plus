@@ -5,14 +5,20 @@ WebStack的魔改版
 
 ### 静态 魔改版本
 1.加入了多元搜索框(基于@seogo编写的版本做了魔改)
+
 2.加入了图标按需加载(懒加载 lazyload)
+
 3.随便弄了个简单的天气(天气网的iframe)
+
 4.右下角聊天室(Gitter WenStack)
 
 ### Laravel 魔改版本
 1.加入了多元搜索框(基于@seogo编写的版本做了魔改)
+
 2.加入了图标按需加载(懒加载 lazyload)
+
 3.随便弄了个简单的天气(天气网的iframe)
+
 4.右下角聊天室(Gitter WenStack)
 
 ### typecho 版本
@@ -20,6 +26,7 @@ WebStack的魔改版
 
 ### wordpress 版本
 因为wordpress过于臃肿,所以暂不提供该版本的魔改
+
 有意向做的朋友可以issue里发下自己维护的WP魔改版本链接,会附于此处
 
 ## 魔改文档
@@ -52,13 +59,16 @@ Demo:
 ```
 ### 天气
 天气网方案:
+
 默认写在了search.js中,不需要请自行删除
+
 单独插入:
 ```html
  <iframe width="100%"  height="60"  frameborder="0" allowtransparency="true" src="//i.tianqi.com/index.php?c=code&id=12&icon=1&num=5&site=12"></iframe>
 ```
 ### 聊天室
 用Gitter的,可以自行更换其他方案
+
 页尾插入
 ```
 <script>
