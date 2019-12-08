@@ -1,9 +1,15 @@
 # WebStack-Plus
 WebStack的魔改版
 
+欢迎关注微信订阅号:GeekS356,跟进项目进度.
+
 ## 版本更新日志
 
 ### 静态 魔改版本
+https://github.com/CrazyBoyM/WebStackPage.github.io
+
+原作@viggo
+
 1.加入了多元搜索框(基于@seogo编写的版本做了魔改)
 
 2.加入了图标按需加载(懒加载 lazyload)
@@ -13,6 +19,10 @@ WebStack的魔改版
 4.右下角聊天室(Gitter WebStack room)
 
 ### Laravel 魔改版本
+https://github.com/hui-ho/WebStack-Laravel
+
+原作@hui-ho
+
 1.加入了多元搜索框(基于@seogo编写的版本做了魔改)
 
 2.加入了图标按需加载(懒加载 lazyload)
@@ -22,6 +32,8 @@ WebStack的魔改版
 4.右下角聊天室(Gitter WebStack room)
 
 ### typecho 版本
+原作@seogo
+
 因为@seogo大大没有开源这个版本到Github,所以暂不提供该版本的魔改
 
 ### wordpress 版本
