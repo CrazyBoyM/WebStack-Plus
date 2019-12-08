@@ -8,9 +8,9 @@ WebStack的魔改版
 
 2.加入了图标按需加载(懒加载 lazyload)
 
-3.随便弄了个简单的天气(天气网的iframe)
+3.随便弄了个简单的天气(天气网)
 
-4.右下角聊天室(Gitter WenStack)
+4.右下角聊天室(Gitter WebStack room)
 
 ### Laravel 魔改版本
 1.加入了多元搜索框(基于@seogo编写的版本做了魔改)
@@ -19,7 +19,7 @@ WebStack的魔改版
 
 3.随便弄了个简单的天气(天气网的iframe)
 
-4.右下角聊天室(Gitter WenStack)
+4.右下角聊天室(Gitter WebStack room)
 
 ### typecho 版本
 因为@seogo大大没有开源这个版本到Github,所以暂不提供该版本的魔改
@@ -70,7 +70,7 @@ Demo:
 用Gitter的,可以自行更换其他方案
 
 页尾插入
-```
+```javascript
 <script>
   ((window.gitter = {}).chat = {}).options = {
    
