@@ -19,7 +19,7 @@ https://github.com/CrazyBoyM/WebStackPage.github.io
 4.右下角聊天室(Gitter WebStack room)
 
 ### Laravel 魔改版本
-https://github.com/hui-ho/WebStack-Laravel
+https://github.com/CrazyBoyM/WebStack-Laravel
 
 原作@hui-ho
 
